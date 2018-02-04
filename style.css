@@ -1,0 +1,10 @@
+div{
+    padding: 10px;
+}
+span{
+    padding: 10px;
+    cursor: pointer;
+}
+span:hover{
+    color: red;
+}
